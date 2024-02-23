@@ -5,6 +5,6 @@ Projeto feito a partir do layout da Comunidade Codelândia, ele foi feito para c
 ***Front-end:*** HTML, CSS e JavaScript
 
 ### Demonstração
-[Jordan Shoes](https://bikcraft-chi-puce.vercel.app)
+[Jordan Shoes](https://jordan-shoes-taupe.vercel.app)
 <hr>
 
